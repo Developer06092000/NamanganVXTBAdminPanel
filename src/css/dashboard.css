@@ -9,13 +9,12 @@
 #components-layout-demo-custom-trigger .trigger:hover {
   color: #1890ff;
 }
-
-#components-layout-demo-custom-trigger .logo {
-  height: 32px;
-  margin: 16px;
-  background: rgba(255, 255, 255, 0.3);
+.site-layout {
+  background: #001529;
 }
-
 .site-layout .site-layout-background {
   background: #fff;
+}
+.ant-layout .ant-menu .ant-menu-item {
+  margin-top: 0;
 }
